@@ -1,16 +1,26 @@
 
-import Header from './Header'
-import Footer from './Footer'
-import Food from './Food'
+// import Header from './Header'
+// import Footer from './Footer'
+// import Food from './Food'
+
+import Button from "./Button"
+
+// import Card from "./Card"
+
 
 function App() {
 
 
   return (
     <>
-   <Header></Header>
+   {/* <Header></Header>
    <Food></Food>
-   <Footer></Footer>
+   <Footer></Footer> */}
+   {/* <Card></Card>
+   <Card></Card>
+   <Card></Card>
+   <Card></Card> */}
+  <Button></Button>
    </>
   )
 }
